@@ -97,3 +97,13 @@ python -m pytest
 ## Purpose
 
 This project was developed to explore API integration, data processing, data visualization, and interactive dashboard development using Python.
+## Screenshots
+
+### ASTRA Landing Page
+![Landing Page](screenshots/landing_pag.png)
+
+### Dashboard Overview
+![Dashboard](screenshots/dashboard.png)
+
+### Analytics
+![Analytics](screenshots/analytics.png)
