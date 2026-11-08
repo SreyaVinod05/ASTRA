@@ -100,10 +100,10 @@ This project was developed to explore API integration, data processing, data vis
 ## Screenshots
 
 ### ASTRA Landing Page
-![Landing Page](screenshots/landing_pag.png)
+![Landing](screenshots/landing.png)
 
 ### Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard-overview.png)
 
 ### Analytics
 ![Analytics](screenshots/analytics.png)
